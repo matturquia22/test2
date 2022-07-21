@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://matturquia22.github.io/test2/annotations/5081ca8817e793cd1ebb4feaa89910e1.json" ],
+  "@id" : "https://matturquia22.github.io/test2/annotations/collection.json",
+  "label" : "All annotations loaded in matturquia22/test2 project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
