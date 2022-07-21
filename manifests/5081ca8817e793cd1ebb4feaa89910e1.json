@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Benjamin Davies",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Benjamin Davies</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/109618899",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-07-21T17:49:37",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1658425777800",
+    "dcterms:modified" : "2022-07-21T17:49:37",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://damsssl.llgc.org.uk/iiif/2.0/4389767/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1288,400,1016,213"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1288.20756,399.84955h508.21254v0h508.21254v106.36299v106.36299h-508.21254h-508.21254v-106.36299z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_58d75dac-7d12-45db-b7f2-24bfaf9cd456\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://damsssl.llgc.org.uk/iiif/2.0/4389767/canvas/4389771.json"
+    } ]
+  } ],
+  "@id" : "https://matturquia22.github.io/test2/manifests/5081ca8817e793cd1ebb4feaa89910e1.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
