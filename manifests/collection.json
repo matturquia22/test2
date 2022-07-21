@@ -1,0 +1,13 @@
+{
+  "id" : "https://matturquia22.github.io/test2/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in matturquia22/test2 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:AnnotationList",
+    "@id" : "https://matturquia22.github.io/test2/manifests/5081ca8817e793cd1ebb4feaa89910e1.json",
+    "label" : null
+  } ]
+}
